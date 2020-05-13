@@ -32,6 +32,3 @@ class scrumTeam{  // AM: default
     }
 
 }
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-        git config --global user.email "myldrm192@gmail.com'
