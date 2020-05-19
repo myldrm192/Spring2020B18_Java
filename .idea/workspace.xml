@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73a73706-5fca-4dab-96c0-88c39cc3c404" name="Default Changelist" comment="Day 40 Class">
+    <list default="true" id="73a73706-5fca-4dab-96c0-88c39cc3c404" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589821558910</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Day 40 Class">
+      <created>1589856130833</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589856130833</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -212,7 +219,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 37 Class" />
     <MESSAGE value="Day 39 Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 39 Class" />
+    <MESSAGE value="Day 40 Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 40 Class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="125" key="#Servers" timestamp="1587607793731">
@@ -240,11 +248,11 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="476" y="342" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.822@0.23.1440.822" timestamp="1587561528105" />
-    <state x="302" y="23" key="CommitChangelistDialog2" timestamp="1589821806875">
+    <state x="14" y="23" key="CommitChangelistDialog2" timestamp="1589856130438">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="72" y="23" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1589700959419" />
-    <state x="302" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1589821806875" />
+    <state x="14" y="23" key="CommitChangelistDialog2/0.23.1440.823@0.23.1440.823" timestamp="1589856130438" />
     <state x="100" y="124" width="1240" height="621" key="DiffContextDialog" timestamp="1589606752335">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -387,11 +395,11 @@
     </state>
     <state x="377" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.816@0.23.1440.816" timestamp="1587011865223" />
     <state x="377" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.822@0.23.1440.822" timestamp="1587962428993" />
-    <state x="524" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589820735909">
+    <state x="524" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589856190155">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
     <state x="524" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.822@0.23.1440.822" timestamp="1589347917215" />
-    <state x="524" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1589820735909" />
+    <state x="524" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.823@0.23.1440.823" timestamp="1589856190155" />
     <state x="499" y="171" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589605365204">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
