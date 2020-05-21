@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 public class DogObject {
 
-    @Override
+
     public String toString() {
         return "DogObject{}";
     }

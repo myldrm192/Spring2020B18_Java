@@ -7,7 +7,7 @@ public class Dog {
     int age;
 
 
-    public Dog(){ // sets the dfeualt value for all instances
+    public Dog(){ // sets the defualt value for all instances
         name = "unkown";
         breed = "unknown";
         age = 0;

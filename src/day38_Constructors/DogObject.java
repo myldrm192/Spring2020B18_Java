@@ -1,7 +1,5 @@
 package day38_Constructors;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
-
 public class DogObject {
 
     public static void main(String[] args) {
